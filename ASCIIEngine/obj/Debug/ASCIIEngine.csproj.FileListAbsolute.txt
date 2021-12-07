@@ -1,0 +1,6 @@
+D:\Projects\ASCIIEngine\ASCIIEngine\bin\Debug\ASCIIEngine.exe.config
+D:\Projects\ASCIIEngine\ASCIIEngine\bin\Debug\ASCIIEngine.exe
+D:\Projects\ASCIIEngine\ASCIIEngine\bin\Debug\ASCIIEngine.pdb
+D:\Projects\ASCIIEngine\ASCIIEngine\obj\Debug\ASCIIEngine.csprojResolveAssemblyReference.cache
+D:\Projects\ASCIIEngine\ASCIIEngine\obj\Debug\ASCIIEngine.exe
+D:\Projects\ASCIIEngine\ASCIIEngine\obj\Debug\ASCIIEngine.pdb
